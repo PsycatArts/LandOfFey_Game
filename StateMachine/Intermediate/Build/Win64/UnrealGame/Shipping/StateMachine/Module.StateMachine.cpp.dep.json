@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\shipping\\statemachine\\module.statemachine.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine5\\projects\\thelandoffey\\intermediate\\build\\win64\\thelandoffey\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\shipping\\statemachine\\definitions.statemachine.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\inc\\statemachine\\uht\\statebase.gen.cpp",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\public\\statebase.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\unreal engine5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\inc\\statemachine\\uht\\statebase.generated.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\inc\\statemachine\\uht\\statemachine.init.gen.cpp",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\inc\\statemachine\\uht\\statemanagercomponent.gen.cpp",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\public\\statemanagercomponent.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealgame\\inc\\statemachine\\uht\\statemanagercomponent.generated.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\private\\statebase.cpp",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\private\\statemachine.cpp",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\public\\statemachine.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\private\\statemanagercomponent.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

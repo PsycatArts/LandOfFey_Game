@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\inc\\statemachine\\uht\\statebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\land_of_fey\\the_land_of_fey\\intermediate\\build\\win64\\thelandoffeyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\development\\statemachine\\definitions.statemachine.h",
+            "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\source\\statemachine\\public\\statebase.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "h:\\dokumente_hard_drive\\ue5\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\inc\\statemachine\\uht\\statebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

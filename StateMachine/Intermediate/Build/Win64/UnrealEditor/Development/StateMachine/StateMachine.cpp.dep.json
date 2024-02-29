@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\private\\statemachine.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine5\\projects\\thelandoffey\\intermediate\\build\\win64\\thelandoffeyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\development\\statemachine\\definitions.statemachine.h",
+            "c:\\unreal engine5\\projects\\thelandoffey\\plugins\\statemachine\\source\\statemachine\\public\\statemachine.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

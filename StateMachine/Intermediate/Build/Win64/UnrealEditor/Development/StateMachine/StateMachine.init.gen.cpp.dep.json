@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\inc\\statemachine\\uht\\statemachine.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\land_of_fey\\the_land_of_fey\\intermediate\\build\\win64\\thelandoffeyeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\land_of_fey\\the_land_of_fey\\plugins\\statemachine\\intermediate\\build\\win64\\unrealeditor\\development\\statemachine\\definitions.statemachine.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

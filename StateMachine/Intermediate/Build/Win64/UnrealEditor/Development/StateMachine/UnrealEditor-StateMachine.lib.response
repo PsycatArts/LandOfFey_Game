@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StateMachine.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Engine5\projects\TheLandOfFey\Intermediate\Build\Win64\TheLandOfFeyEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Engine5\projects\TheLandOfFey\Plugins\StateMachine\Intermediate\Build\Win64\UnrealEditor\Development\StateMachine\Module.StateMachine.cpp.obj"
+"C:\Unreal Engine5\projects\TheLandOfFey\Plugins\StateMachine\Intermediate\Build\Win64\UnrealEditor\Development\StateMachine\Default.rc2.res"
+/OUT:"C:\Unreal Engine5\projects\TheLandOfFey\Plugins\StateMachine\Intermediate\Build\Win64\UnrealEditor\Development\StateMachine\UnrealEditor-StateMachine.lib"
